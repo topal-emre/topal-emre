@@ -7,10 +7,9 @@
 
 - 🔭 &nbsp; I’m exploring and learning new technologies almost everyday.
 - 🤔 &nbsp; I'm developing software solutions and quick hacks.
-- 🎓 &nbsp; Studied Computer Programming and Business Administration.
+- 🎓 &nbsp; Studied Management Information Systems.
 - 💼 &nbsp; Full stack developer who prefers back-end development.
-- 🌱 &nbsp; Hobbies on reading, football, running, swim, fitness and games.
-- ✍️ &nbsp; Watching movies on free time.
+- ✍️ &nbsp; Reading blogs in free time.
 - ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 ## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀

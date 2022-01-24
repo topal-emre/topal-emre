@@ -1,5 +1,4 @@
 <h2> Hey there! I'm Emre TOPAL. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="" src="https://www.fidiots.com/images/working4.gif" width="350" />
 
 <h3> 👨🏻‍💻 About Me </h3>
 

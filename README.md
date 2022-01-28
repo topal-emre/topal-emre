@@ -36,7 +36,7 @@ C#, AspNet, WebForm, MsSql, WinForm, PostgreSql,GO, MongoDb
 <br />
 <u><b>Pudo (01.02.2021 – 08.08.2021)</b></u>
 <br />
-Working on cargo operation management system. T
+Working on cargo operation management system.
 <br />
 <em>Technologies and Software : </em>
 <u>ReactJS, C#, Asp.Net Core Web API, MySQL</u>

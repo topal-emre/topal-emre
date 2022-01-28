@@ -17,7 +17,7 @@
 <!-- Job Start -->
 <tr valign="top">
 <td><h5>Software developer</h5></td>
-<td><h5>ENS BİLİŞİM - ANTALYA (10.08.2021 – ~)</h5></td>
+<td><h5>4Alabs - ANKARA (10.08.2021 – ~)</h5></td>
 </tr>
 <tr valign="top">
 <td colspan="2">
